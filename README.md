@@ -1,0 +1,2 @@
+# regnetpaper
+regnetpaper from scratch
